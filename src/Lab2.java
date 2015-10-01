@@ -14,7 +14,7 @@ public class Lab2
 		int ComputerNum, UserNum;
 
 		ComputerNum = 0 + (int) (Math.random() * 10);
-		System.out.printf("%d\n", ComputerNum);
+		//System.out.printf("%d\n", ComputerNum);
 
 		System.out.print("Please enter a number: ");
 		UserNum = input.nextInt();
