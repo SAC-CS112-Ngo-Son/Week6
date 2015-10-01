@@ -26,7 +26,7 @@ public class Lab4
 
 			System.out.print("Please enter a different number: ");
 			UserNum = input.nextInt();
-			count += 1;
+			count += 1;	
 		}
 		
 		if (UserNum == ComputerNum)
